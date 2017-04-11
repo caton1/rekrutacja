@@ -1,0 +1,46 @@
+(node) util.print is deprecated. Use console.log instead.
+.post {
+  background-color: #eeeeee;
+}
+.post:hover {
+  background-color: #eeeeee;
+  font-size: large;
+}
+#radio {
+  color: #000000;
+  font-size: large;
+  background-color: #eeeeee;
+  padding: 4px;
+  width: 300px;
+}
+.breadcrumb {
+  text-align: left;
+}
+.field-radio {
+  font: arial-black;
+  font-size: large;
+  background-color: #000efe;
+  text-align: left;
+  z-index: -1;
+}
+#button {
+  margin-top: -100px;
+}
+.btn btn-primary {
+  background-color: #eeeeee;
+}
+body {
+  background-color: #000efe;
+  color: #000000;
+}
+body .well {
+  background-color: #eeeeee;
+}
+body .field-contracts-contracts,
+body .field-contracts-title,
+body .field-contracts-select {
+  background-color: #eeeeee;
+}
+.div1 {
+  display: none;
+}
